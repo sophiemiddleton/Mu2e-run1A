@@ -100,6 +100,7 @@ per EventNtuple version in `VERSION_CUTS` (`config.py`, `config_1BB.py`).
 | [`trkqual/`](trkqual/) | Track quality classifier threshold and efficiency | `good_trkqual` | covered by `Track_Efficiency` for now |
 | [`PID/`](PID/) | Particle ID: electron selection, muon and pion rejection | `good_trkpid` | `PID_Efficiency` |
 | [`CRV/`](CRV/) | Cosmic ray veto: efficiency, veto window, dead time | `no_crv_veto` | `CRV_Efficiency` |
+| [`CutOptimization/`](CutOptimization/) | TODO. Contact Natalie Harrison | | |
 
 ### Directory READMEs
 
